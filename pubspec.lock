@@ -65,7 +65,7 @@ packages:
   flutter_braintree:
     dependency: "direct main"
     description:
-      path: "/Users/seankang/git/flutter/flutter-braintree"
+      path: "/Users/seankang/git/flutter/flutter-braintree-plugin"
       relative: false
     source: path
     version: "4.0.0"
